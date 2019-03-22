@@ -1,6 +1,6 @@
 
 public class a {
 	public int function(){
-return 100;
+return 200;
 }
 }
